@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PACISTAN SEEDS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="bower_components/swiper/dist/css/swiper.min.css" rel="stylesheet" />
+    <link href="style/css/fonts.css" rel="stylesheet" />
+    <link href="bower_components/animate/animate.css" rel="stylesheet" />
+    <link href="style/css/StyleSheetAlina.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="style/img/favicon.png" type="image/x-icon">
+
+</head>
+<body>
+   <header>
+       <div class="container">
+           <div class="header_top">
+               <a href="">+38 097 777 73 54</a>
+               <a href="">38 097 157 73 54</a>
+               <img src="style/img/corzina.png">
+           </div>
+       </div>
+   </header>
+   <div class="logo_menu">
+    <img src="style/img/logo.png">
+    <div class="menu">
+        <a href="">Главная</a>
+         <a href="">О нас</a>
+        <a href="">Доставка и оплата</a>
+        <a href="">Законодательство</a>
+        <a href="">Новости</a>
+         <a href="">Контакты</a>
+        <a href="">Акции</a>
+</div>
+   </div>
+   <div class="actions">
+       <h6>Оплата и доставка</h6>
+       <img src="style/img/листочек.png">
+       <a href="">Перейти к покупкам</a>
+   </div>
+   <div class="container">
+    <div class="quality">качественно и не дорого</div>
+    <div class="text_green_100">ГАРАНТИЯ КАЧЕСТВА!</div>
+    <div class="pakistan_text">Интернет магазин семян конопли PAKISTAN SEEDS гарантирует 100% качество продукции, поскольку поставки принимаются исключительно из партнёрских сидбанков, с которыми магазин сотрудничает давно и без осечек. Весь товар проверяется специалистами при поступлении и перед отправкой, то есть дважды. Работники склада придерживаются условий хранения, чтобы здоровые высококачественные семена, выведенные зарубежными бридерами, приятно удивили покупателя. Мы дорожим клиентами и репутацией!</div>
+   </div>
+
+   <div class="anonim_block"> 
+  <div class="container">
+   <div class="anonim_caption">АНОНИМНОСТЬ ДОСТАВКИ СЕМЯН</div>
+      <div class="col-md-6">
+    <p>
+      Мы очень тщательно подходим к доставке посылок, заботимся о Вашей безопасности и Анонимности. 
+         </p>
+   <p>Семена отправляются вперемешку с заказами интернет магазина женской бижутерии, это обходит всевозможные проверки на отделении и делает Ваш груз максимально безопасным и не риметным для сотрудников Новой почты.   </p>
+   <p>Так же для обеспечения <span>МАКСИМАЛЬНОЙ АНОНИМНОСТИ </span>мы сможем организовать доставку КУРЬЕРОМ по всей Украине, доставка возможна во все города, кроме городов зоны АТО (надеемся скоро будет Украина)   </p>
+   <p>В таком случае не требуются Ваши личные данные, кроме номера телефона, по которому будет связь с курьером. В течении суток в Киеве, остальные города на 2 сутки после утверждения заказа. Оплата <span>НАЛОЖЕННЫМ ПЛАТЕЖОМ!</span>   </p>
+    </p>
+      </div>
+      <div class="col-md-6">
+  <p><span>ВАЖНО!</span> Вы платите деньги только после того, как получаете семена в руки. </p> <br><br>
+
+<p>Здесь Вы полностью застрахованы(для Вашей же безопасности рекомендуем открывать посылки в безлюдном месте)
+ Подчеркиваем, процедура сугубо анонимна - курьер знает что вы заказывали бижутерию! Опять таки для Вашей безопасности!!</p><br><br>
+
+<p>Так же возможна доставка на любое отделение Новой почты.
+Доставка в Россию и другие страны осуществляется без проблем! В любую точку мира доставим <span>АНОНИМНО</span> (даже в Северную Корею)) Посылки упаковываются нашим фирменным способом, что никакая собака не унюхает)</p>
+      </div>
+    </div>
+  </div>
+  <div class="pay">
+    <h6>ОПЛАТА СЕМЯН</h6>
+    <img src="style/img/листочек.png">
+    <p>
+      По Украине доступна оплата наложенным платежом. Вы платите деньги на отделении Новой почты только <br> после того, как получили товар в руки!   <br>
+Так же возможен платеж на карту Приватбанка. <br>
+В Россию заказ высылается после 100% предоплаты на кошелек QIWI или Яндекс. <br>
+    </p>
+  </div>
+  <div class="container">
+    <div class="container_buy">
+      <div class="block_buy anim_left">
+        <img src="style/img/buy1.png">
+        <p>Яндекс деньги</p>
+      </div>
+       <div class="block_buy anim_top">
+        <img src="style/img/buy2.png">
+        <p>MasterCard</p>
+      </div> 
+      <div class="block_buy anim_top">
+        <img src="style/img/buy3.png">
+        <p>Visa</p>
+      </div> 
+      <div class="block_buy anim_top" >
+        <img src="style/img/buy4.png">
+        <p>Webmoney</p>
+      </div> 
+      <div class="block_buy anim_right">
+        <img src="style/img/buy5.png">
+        <p>Qiwi</p>
+      </div>
+    </div>
+  </div>
+   <div class="container">
+    <footer>
+        <div class="col-md-5">
+            <div class="footer_logo">
+                <img src="style/img/logo_black.png">
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div class="footer_menu">
+                <a href="">Главная</a>
+                <a href="">О нас</a>
+                <a href="">Доставка и оплата</a>
+                <a href="">Законодательство</a>
+            </div>
+        </div>
+         <div class="col-md-2">
+            <div class="footer_menu">
+                <a href="">новости</a>
+                <a href="">контакты</a>
+                <a href="">акции</a>
+                <a href="">категории</a>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer_contact">
+                <a href="tel:80977777354">+38 097 777 73 54</a>
+               <a href="">+38 097 157 73 54</a>
+                       <p>Адрес: Киев, ул. Лысенка , 6 <br>
+            konoplisemena.com@gmail.com
+        </p>
+            </div>
+        </div>
+
+    </footer>
+   </div>
+    <!-- END footer-->
+    <!-- bower:js-->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="bower_components/swiper/dist/js/swiper.js"></script>
+    <script src="bower_components/animate/waypoints.min.js"></script>
+    <script src="bower_components/animate/animate-css.js"></script>
+    <!-- build:js js/main.js -->
+    <script src="js/JavaScript.js"></script>
+</body>
+</html>

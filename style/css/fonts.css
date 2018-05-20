@@ -1,0 +1,20 @@
+﻿@font-face {
+    font-family: 'AdobeNaskh-Medium';
+    src: url('../fonts/AdobeNaskh-Medium.otf') format('opentype');
+}
+@font-face {
+    font-family: 'ForteMT';
+    src: url('../fonts/ForteMT.otf') format('opentype');
+}
+@font-face {
+    font-family: 'open_sans_semi_bold';
+    src: url('../fonts/open_sans_semi_bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Roboto_Bold';
+    src: url('../fonts/Roboto_Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'roboto_regular';
+    src: url('../fonts/roboto_regular.ttf') format('truetype');
+}
